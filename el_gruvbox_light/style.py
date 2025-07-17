@@ -62,12 +62,12 @@ class ELGruvboxLight(Style):
         Name.Variable.Instance:    '#3c3836',  # fg1
 
         # Numbers
-        Number:                    '#8f3f71',  # purple
-        Number.Float:              '#8f3f71',  # purple
-        Number.Hex:                '#8f3f71',  # purple
-        Number.Integer:            '#8f3f71',  # purple
-        Number.Integer.Long:       '#8f3f71',  # purple
-        Number.Oct:                '#8f3f71',  # purple
+        Number:                    '#3c3836',  # fg1
+        Number.Float:              '#3c3836',  # fg1
+        Number.Hex:                '#3c3836',  # fg1
+        Number.Integer:            '#3c3836',  # fg1
+        Number.Integer.Long:       '#3c3836',  # fg1
+        Number.Oct:                '#3c3836',  # fg1
         
         # Operators
         Operator:                  '#076678',  # blue
@@ -91,7 +91,7 @@ class ELGruvboxLight(Style):
         String.Symbol:             '#79740e',  # green
         
         # Literals
-        Literal:                   '#79740e',  # fg1
+        Literal:                   '#076678',  # blue
         Literal.Date:              '#79740e',  # green
         
         # Generic tokens (for diffs, etc.)
