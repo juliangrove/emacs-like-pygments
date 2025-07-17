@@ -5,6 +5,7 @@ setup(name='emacs-like-pygments',
       packages=find_packages(),
       entry_points="""
                    [pygments.styles]
+                   el-gruvbox-dark = el_gruvbox_dark.style:ELGruvboxDark
                    el-gruvbox-light = el_gruvbox_light.style:ELGruvboxLight
                    """
       )
