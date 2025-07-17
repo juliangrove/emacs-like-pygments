@@ -60,7 +60,7 @@ class ELGruvboxLight(Style):
         Name.Variable.Class:       '#3c3836',  # fg1
         Name.Variable.Global:      '#3c3836',  # fg1
         Name.Variable.Instance:    '#3c3836',  # fg1
-        ! LaTeX Error: Unknown option `ttdefault' for package `dejavu'.
+
         # Numbers
         Number:                    '#8f3f71',  # purple
         Number.Float:              '#8f3f71',  # purple
