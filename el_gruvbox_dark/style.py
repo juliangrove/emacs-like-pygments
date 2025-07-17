@@ -29,7 +29,7 @@ class ELGruvboxDark(Style):
         Comment.Multiline:         '#98971a',  # green
         Comment.Single:            '#928374',  # green
         Comment.Special:           '#928374',  # gray
-        Comment.Preproc:           '#79740e',  # green
+        Comment.Preproc:           '#b8bb26',  # green
         
         # Keywords
         Keyword:                   '#cc241d',  # dark red
@@ -77,22 +77,22 @@ class ELGruvboxDark(Style):
         Punctuation:               '#ebdbb2',  # fg
         
         # Strings
-        String:                    '#79740e',  # green
-        String.Backtick:           '#79740e',  # green
-        String.Char:               '#79740e',  # green
+        String:                    '#b8bb26',  # green
+        String.Backtick:           '#b8bb26',  # green
+        String.Char:               '#b8bb26',  # green
         String.Doc:                '#928374',  # gray
-        String.Double:             '#79740e',  # green
+        String.Double:             '#b8bb26',  # green
         String.Escape:             '#af3a03',  # orange
-        String.Heredoc:            '#79740e',  # green
-        String.Interpol:           '#79740e',  # green
-        String.Other:              '#79740e',  # green
-        String.Regex:              '#79740e',  # green
-        String.Single:             '#79740e',  # green
-        String.Symbol:             '#79740e',  # green
+        String.Heredoc:            '#b8bb26',  # green
+        String.Interpol:           '#b8bb26',  # green
+        String.Other:              '#b8bb26',  # green
+        String.Regex:              '#b8bb26',  # green
+        String.Single:             '#b8bb26',  # green
+        String.Symbol:             '#b8bb26',  # green
         
         # Literals
         Literal:                   '#458588',  # blue
-        Literal.Date:              '#79740e',  # green
+        Literal.Date:              '#b8bb26',  # green
         
         # Generic tokens (for diffs, etc.)
         Generic:                   '#ebdbb2',  # fg
@@ -100,7 +100,7 @@ class ELGruvboxDark(Style):
         Generic.Emph:              '#3c3836',  # fg
         Generic.Error:             '#cc241d',  # red
         Generic.Heading:           '#3c3836',  # fg
-        Generic.Inserted:          '#79740e',  # green
+        Generic.Inserted:          '#b8bb26',  # green
         Generic.Output:            '#3c3836',  # fg
         Generic.Prompt:            '#3c3836',  # fg
         Generic.Strong:            '#3c3836',  # fg
