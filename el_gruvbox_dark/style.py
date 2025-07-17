@@ -38,7 +38,7 @@ class ELGruvboxDark(Style):
         Keyword.Namespace:         '#cc241d',  # dark red
         Keyword.Pseudo:            '#cc241d',  # dark red
         Keyword.Reserved:          '#cc241d',  # dark red
-        Keyword.Type:              '#cc241d',  # dark red
+        Keyword.Type:              '#b16286',  # purple
         
         # Names
         Name:                      '#ebdbb2',  # fg
@@ -50,7 +50,7 @@ class ELGruvboxDark(Style):
         Name.Decorator:            '#af3a03',  # orange
         Name.Entity:               '#af3a03',  # orange
         Name.Exception:            '#cc241d',  # red
-        Name.Function:             '#3c3836',  # fg
+        Name.Function:             '#ebdbb2',  # fg
         Name.Label:                '#3c3836',  # fg
         Name.Namespace:            '#458588',  # blue
         Name.Other:                '#3c3836',  # fg
