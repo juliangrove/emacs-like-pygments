@@ -25,11 +25,11 @@ class ELGruvboxLight(Style):
         Error:                     '#cc241d',  # red
         
         # Comments
-        Comment:                   '#79740e',  # gray
-        Comment.Multiline:         '#79740e',  # gray
-        Comment.Single:            '#79740e',  # gray
-        Comment.Special:           '#79740e',  # gray
-        Comment.Preproc:           '#79740e',  # purple
+        Comment:                   '#79740e',  # green
+        Comment.Multiline:         '#79740e',  # green
+        Comment.Single:            '#79740e',  # green
+        Comment.Special:           '#a89984',  # gray
+        Comment.Preproc:           '#79740e',  # green
         
         # Keywords
         Keyword:                   '#9d0006',  # dark red
@@ -38,14 +38,14 @@ class ELGruvboxLight(Style):
         Keyword.Namespace:         '#9d0006',  # dark red
         Keyword.Pseudo:            '#9d0006',  # dark red
         Keyword.Reserved:          '#9d0006',  # dark red
-        Keyword.Type:              '#b16286',  # yellow
+        Keyword.Type:              '#8f3f71',  # yellow
         
         # Names
         Name:                      '#3c3836',  # fg1
         Name.Attribute:            '#af3a03',  # orange
         Name.Builtin:              '#076678',  # blue
         Name.Builtin.Pseudo:       '#076678',  # blue
-        Name.Class:                '#b16286',  # yellow
+        Name.Class:                '#8f3f71',  # yellow
         Name.Constant:             '#8f3f71',  # purple
         Name.Decorator:            '#af3a03',  # orange
         Name.Entity:               '#af3a03',  # orange
@@ -91,7 +91,7 @@ class ELGruvboxLight(Style):
         String.Symbol:             '#79740e',  # green
         
         # Literals
-        Literal:                   '#3c3836',  # fg1
+        Literal:                   '#79740e',  # fg1
         Literal.Date:              '#79740e',  # green
         
         # Generic tokens (for diffs, etc.)
