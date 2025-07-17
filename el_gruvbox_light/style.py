@@ -27,7 +27,7 @@ class ELGruvboxLight(Style):
         # Comments
         Comment:                   '#79740e',  # green
         Comment.Multiline:         '#79740e',  # green
-        Comment.Single:            '#79740e',  # green
+        Comment.Single:            '#a89984',  # green
         Comment.Special:           '#a89984',  # gray
         Comment.Preproc:           '#79740e',  # green
         
@@ -60,7 +60,7 @@ class ELGruvboxLight(Style):
         Name.Variable.Class:       '#3c3836',  # fg1
         Name.Variable.Global:      '#3c3836',  # fg1
         Name.Variable.Instance:    '#3c3836',  # fg1
-        
+        ! LaTeX Error: Unknown option `ttdefault' for package `dejavu'.
         # Numbers
         Number:                    '#8f3f71',  # purple
         Number.Float:              '#8f3f71',  # purple
@@ -70,7 +70,7 @@ class ELGruvboxLight(Style):
         Number.Oct:                '#8f3f71',  # purple
         
         # Operators
-        Operator:                  '#3c3836',  # fg1
+        Operator:                  '#076678',  # fg1
         Operator.Word:             '#9d0006',  # dark red
         
         # Punctuation
