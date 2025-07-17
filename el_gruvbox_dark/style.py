@@ -38,7 +38,7 @@ class ELGruvboxDark(Style):
         Keyword.Namespace:         '#cc241d',  # dark red
         Keyword.Pseudo:            '#cc241d',  # dark red
         Keyword.Reserved:          '#cc241d',  # dark red
-        Keyword.Type:              '#b16286',  # purple
+        Keyword.Type:              '#d3896b',  # purple
         
         # Names
         Name:                      '#ebdbb2',  # fg
