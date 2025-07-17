@@ -22,7 +22,7 @@ class ELGruvboxDark(Style):
         # Basic tokens
         Text:                      '#ebdbb2',  # fg
         Whitespace:                '#928374',  # gray
-        Error:                     '#cc241d',  # red
+        Error:                     '#fb4934',  # red
         
         # Comments
         Comment:                   '#98971a',  # green
@@ -32,12 +32,12 @@ class ELGruvboxDark(Style):
         Comment.Preproc:           '#b8bb26',  # green
         
         # Keywords
-        Keyword:                   '#cc241d',  # dark red
-        Keyword.Constant:          '#cc241d',  # dark red
-        Keyword.Declaration:       '#cc241d',  # dark red
-        Keyword.Namespace:         '#cc241d',  # dark red
-        Keyword.Pseudo:            '#cc241d',  # dark red
-        Keyword.Reserved:          '#cc241d',  # dark red
+        Keyword:                   '#fb4934',  # dark red
+        Keyword.Constant:          '#fb4934',  # dark red
+        Keyword.Declaration:       '#fb4934',  # dark red
+        Keyword.Namespace:         '#fb4934',  # dark red
+        Keyword.Pseudo:            '#fb4934',  # dark red
+        Keyword.Reserved:          '#fb4934',  # dark red
         Keyword.Type:              '#d3869b',  # purple
         
         # Names
@@ -49,7 +49,7 @@ class ELGruvboxDark(Style):
         Name.Constant:             '#8f3f71',  # purple
         Name.Decorator:            '#af3a03',  # orange
         Name.Entity:               '#af3a03',  # orange
-        Name.Exception:            '#cc241d',  # red
+        Name.Exception:            '#fb4934',  # red
         Name.Function:             '#ebdbb2',  # fg
         Name.Label:                '#3c3836',  # fg
         Name.Namespace:            '#458588',  # blue
@@ -96,9 +96,9 @@ class ELGruvboxDark(Style):
         
         # Generic tokens (for diffs, etc.)
         Generic:                   '#ebdbb2',  # fg
-        Generic.Deleted:           '#cc241d',  # red
+        Generic.Deleted:           '#fb4934',  # red
         Generic.Emph:              '#3c3836',  # fg
-        Generic.Error:             '#cc241d',  # red
+        Generic.Error:             '#fb4934',  # red
         Generic.Heading:           '#3c3836',  # fg
         Generic.Inserted:          '#b8bb26',  # green
         Generic.Output:            '#3c3836',  # fg
