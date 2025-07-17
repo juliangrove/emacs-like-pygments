@@ -74,7 +74,7 @@ class ELGruvboxLight(Style):
         Operator.Word:             '#9d0006',  # dark red
         
         # Punctuation
-        Punctuation:               '#3c3836',  # fg1
+        Punctuation:               '#076678',  # blue
         
         # Strings
         String:                    '#79740e',  # green
