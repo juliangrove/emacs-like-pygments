@@ -27,8 +27,8 @@ class ELGruvboxLight(Style):
         # Comments
         Comment:                   '#79740e',  # green
         Comment.Multiline:         '#79740e',  # green
-        Comment.Single:            '#a89984',  # green
-        Comment.Special:           '#a89984',  # gray
+        Comment.Single:            '#928374',  # green
+        Comment.Special:           '#928374',  # gray
         Comment.Preproc:           '#79740e',  # green
         
         # Keywords
