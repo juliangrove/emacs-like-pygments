@@ -38,7 +38,7 @@ class ELGruvboxDark(Style):
         Keyword.Namespace:         '#cc241d',  # dark red
         Keyword.Pseudo:            '#cc241d',  # dark red
         Keyword.Reserved:          '#cc241d',  # dark red
-        Keyword.Type:              '#d3896b',  # purple
+        Keyword.Type:              '#d3869b',  # purple
         
         # Names
         Name:                      '#ebdbb2',  # fg
@@ -74,8 +74,8 @@ class ELGruvboxDark(Style):
         Operator.Word:             '#458588',  # blue
         
         # Punctuation
-        Punctuation:               '#ebdbb2',  # fg
-        
+        Punctuation:               '#ebdbb2',  # bg
+
         # Strings
         String:                    '#b8bb26',  # green
         String.Backtick:           '#b8bb26',  # green
