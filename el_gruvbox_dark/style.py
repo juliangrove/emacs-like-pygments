@@ -43,8 +43,8 @@ class ELGruvboxDark(Style):
         # Names
         Name:                      '#ebdbb2',  # fg
         Name.Attribute:            '#af3a03',  # orange
-        Name.Builtin:              '#458588',  # blue
-        Name.Builtin.Pseudo:       '#458588',  # blue
+        Name.Builtin:              '#83a598',  # blue
+        Name.Builtin.Pseudo:       '#83a598',  # blue
         Name.Class:                '#8f3f71',  # yellow
         Name.Constant:             '#8f3f71',  # purple
         Name.Decorator:            '#af3a03',  # orange
@@ -52,10 +52,10 @@ class ELGruvboxDark(Style):
         Name.Exception:            '#fb4934',  # red
         Name.Function:             '#ebdbb2',  # fg
         Name.Label:                '#3c3836',  # fg
-        Name.Namespace:            '#458588',  # blue
+        Name.Namespace:            '#83a598',  # blue
         Name.Other:                '#3c3836',  # fg
         Name.Property:             '#3c3836',  # fg
-        Name.Tag:                  '#458588',  # blue
+        Name.Tag:                  '#83a598',  # blue
         Name.Variable:             '#3c3836',  # fg
         Name.Variable.Class:       '#3c3836',  # fg
         Name.Variable.Global:      '#3c3836',  # fg
@@ -70,8 +70,8 @@ class ELGruvboxDark(Style):
         Number.Oct:                '#ebdbb2',  # fg
         
         # Operators
-        Operator:                  '#458588',  # blue
-        Operator.Word:             '#458588',  # blue
+        Operator:                  '#83a598',  # blue
+        Operator.Word:             '#83a598',  # blue
         
         # Punctuation
         Punctuation:               '#ebdbb2',  # bg
@@ -91,7 +91,7 @@ class ELGruvboxDark(Style):
         String.Symbol:             '#b8bb26',  # green
         
         # Literals
-        Literal:                   '#458588',  # blue
+        Literal:                   '#83a598',  # blue
         Literal.Date:              '#b8bb26',  # green
         
         # Generic tokens (for diffs, etc.)
@@ -105,5 +105,5 @@ class ELGruvboxDark(Style):
         Generic.Prompt:            '#3c3836',  # fg
         Generic.Strong:            '#3c3836',  # fg
         Generic.Subheading:        '#3c3836',  # fg
-        Generic.Traceback:         '#458588',  # blue
+        Generic.Traceback:         '#83a598',  # blue
     }
