@@ -50,7 +50,7 @@ class ELGruvboxLight(Style):
         Name.Decorator:            '#af3a03',  # orange
         Name.Entity:               '#af3a03',  # orange
         Name.Exception:            '#cc241d',  # red
-        Name.Function:             '#b57614',  # yellow
+        Name.Function:             '#3c3836',  # fg1
         Name.Label:                '#3c3836',  # fg1
         Name.Namespace:            '#076678',  # blue
         Name.Other:                '#3c3836',  # fg1
