@@ -41,7 +41,7 @@ class ELGruvboxLight(Style):
         Keyword.Type:              '#8f3f71',  # yellow
         
         # Names
-        Name:                      '#b57614',  # yellow
+        Name:                      '#3c3836',  # fg1
         Name.Attribute:            '#af3a03',  # orange
         Name.Builtin:              '#076678',  # blue
         Name.Builtin.Pseudo:       '#076678',  # blue
@@ -50,7 +50,7 @@ class ELGruvboxLight(Style):
         Name.Decorator:            '#af3a03',  # orange
         Name.Entity:               '#af3a03',  # orange
         Name.Exception:            '#cc241d',  # red
-        Name.Function:             '#3c3836',  # fg1
+        Name.Function:             '#b57614',  # yellow
         Name.Label:                '#3c3836',  # fg1
         Name.Namespace:            '#076678',  # blue
         Name.Other:                '#3c3836',  # fg1
