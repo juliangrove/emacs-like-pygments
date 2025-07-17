@@ -70,11 +70,11 @@ class ELGruvboxLight(Style):
         Number.Oct:                '#8f3f71',  # purple
         
         # Operators
-        Operator:                  '#076678',  # fg1
-        Operator.Word:             '#9d0006',  # dark red
+        Operator:                  '#076678',  # blue
+        Operator.Word:             '#076678',  # blue
         
         # Punctuation
-        Punctuation:               '#076678',  # blue
+        Punctuation:               '#3c3836',  # fg1
         
         # Strings
         String:                    '#79740e',  # green
