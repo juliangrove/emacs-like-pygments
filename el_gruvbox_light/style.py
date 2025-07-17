@@ -41,7 +41,7 @@ class ELGruvboxLight(Style):
         Keyword.Type:              '#8f3f71',  # yellow
         
         # Names
-        Name:                      '#3c3836',  # fg1
+        Name:                      '#b57614',  # yellow
         Name.Attribute:            '#af3a03',  # orange
         Name.Builtin:              '#076678',  # blue
         Name.Builtin.Pseudo:       '#076678',  # blue
