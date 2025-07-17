@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='emacs-like-pygments',
-      description='Some Emacs-like pygments color schemes.',
+      description='Emacs-like pygments color schemes for use with minted.',
       packages=find_packages(),
       entry_points="""
                    [pygments.styles]
